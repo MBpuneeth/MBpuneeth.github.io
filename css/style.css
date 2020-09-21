@@ -1049,8 +1049,8 @@ input[type="text"] {
 
 .gototop {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 25px;
+  right: 100px;
   z-index: 999;
   opacity: 0;
   visibility: hidden;
